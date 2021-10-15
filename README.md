@@ -5,7 +5,8 @@ Team members:
 3. Đào Hải Long
 4. Đặng Thái Sơn
 5. Đỗ Công Hòa
-Date 15/10/2021:
+
+#Date 15/10/2021:
 Phân công việc
 ==> Tạo NewPages: Long
 + Newfeed: Long
